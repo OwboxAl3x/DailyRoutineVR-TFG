@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62e9e814-ff14-424b-9fbd-4f1aad070948" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Pbt4vRexF7ib1Zueuh6QfSKTKe" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.PHP" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="B:\xampp\htdocs\Unity" />
+      <recent name="B:\xampp\htdocs\DB" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62e9e814-ff14-424b-9fbd-4f1aad070948" name="Default Changelist" comment="" />
+      <created>1549188491089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549188491089</updated>
+      <workItem from="1549188495117" duration="292000" />
+      <workItem from="1549188855770" duration="603000" />
+      <workItem from="1549192066676" duration="7911000" />
+      <workItem from="1549226441748" duration="3830000" />
+      <workItem from="1549308342659" duration="4747000" />
+      <workItem from="1554833294796" duration="2752000" />
+      <workItem from="1554917087796" duration="2566000" />
+      <workItem from="1555150803440" duration="2134000" />
+      <workItem from="1555257234999" duration="3822000" />
+      <workItem from="1557161951792" duration="1936000" />
+      <workItem from="1563016404979" duration="5513000" />
+      <workItem from="1563053123031" duration="1343000" />
+      <workItem from="1563096802993" duration="6506000" />
+      <workItem from="1563279060134" duration="208000" />
+      <workItem from="1563458184777" duration="410000" />
+      <workItem from="1563458700359" duration="707000" />
+      <workItem from="1563525716016" duration="599000" />
+      <workItem from="1564313591192" duration="9219000" />
+      <workItem from="1564827491935" duration="7794000" />
+      <workItem from="1565028793854" duration="1062000" />
+      <workItem from="1565030303797" duration="2487000" />
+      <workItem from="1565425599651" duration="66000" />
+      <workItem from="1566154436642" duration="2071000" />
+      <workItem from="1566228055342" duration="3210000" />
+      <workItem from="1566323792812" duration="985000" />
+      <workItem from="1567422931815" duration="2668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

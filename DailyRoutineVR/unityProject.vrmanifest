@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.dailyroutinevr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Alejandro\\Dropbox\\Carrera\\2ºCuatrimestre\\TFG\\DailyRoutineVR\\DailyRoutineVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "DailyRoutineVR [Testing]"
+        }
+      }
+    }
+  ]
+}
